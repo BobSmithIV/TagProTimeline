@@ -6,8 +6,6 @@ Ever felt like your flag never seemed to leave your base?  Or that the game was 
 ## Examples:
 
 - Very holdy: 
-![alt tag](https://raw.githubusercontent.com/BobSmithIV/TagProTimeline/master/Examples/Screenshots/Screenshot1.png)
-
 ![alt tag](https://raw.githubusercontent.com/BobSmithIV/TagProTimeline/master/Examples/Timelines/Timeline1.png)  
 
 - More defensive: 
@@ -15,8 +13,6 @@ Ever felt like your flag never seemed to leave your base?  Or that the game was 
 
 
 - Center flag: 
-![alt tag](https://raw.githubusercontent.com/BobSmithIV/TagProTimeline/master/Examples/Screenshots/Screenshot2.png)
-
 ![alt tag](https://raw.githubusercontent.com/BobSmithIV/TagProTimeline/master/Examples/Timelines/Timeline4.png)
 
 ***
@@ -25,9 +21,7 @@ Ever felt like your flag never seemed to leave your base?  Or that the game was 
 
 The three timelines represent the hold times for Red, Blue and both respectively, from the start of the game on the left to the end of the game on the right.  Grey indicates the flag was in base while Red/Blue indicates it was being held by that colour.  On the main timeline, purple is used when both flags are held.
 
-Note that the script also works if you join a game halfway through, although will only display the timeline starting from when you join:
-
-![alt tag](https://raw.githubusercontent.com/BobSmithIV/TagProTimeline/master/Examples/Screenshots/Screenshot3.png).
+Note that the script also works if you join a game halfway through, although will only display the timeline starting from when you join [(screenshot)](https://raw.githubusercontent.com/BobSmithIV/TagProTimeline/master/Examples/Screenshots/Screenshot3.png).
 
 ***
 
